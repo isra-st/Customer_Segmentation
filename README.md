@@ -46,6 +46,9 @@ The best performers modesl are:
        <img src="https://user-images.githubusercontent.com/73388089/114066689-48e1a680-989c-11eb-87e5-171c06b9249e.png" alt="Gradient Boosting Classifier" width="300" height="250">
 
 
+# K-Means model performance
+
+
 # Process
 1. Design: 
   * I have created a MIRO board with the story mapping. https://miro.com/app/board/o9J_lRe3F5E=/

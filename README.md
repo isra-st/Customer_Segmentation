@@ -70,7 +70,7 @@ After clustering the datapoints in four clusters I came up with the below Person
    * PCA
 3. Modeling for Classification. we select the model with better performance (Gradient Boosting Classifier - Light Gradient Boosting Classifier)
 
-4. Hyper Tunning of the (Gradient Boosting Classifier - Light Gradient Boosting Classifier
+4. Hyper Tunning of the Gradient Boosting Classifier and Light Gradient Boosting Classifier.
 
 5. Clustering with Kmeans
 
@@ -81,6 +81,7 @@ After clustering the datapoints in four clusters I came up with the below Person
 # Presentation
 To see the presentation, click in the below picture.
 
-[<img src="https://user-images.githubusercontent.com/73388089/114032866-0492de00-987d-11eb-9609-31cb62479a73.png" alt="Test_VS_Prediction" width="400" height="330">](https://github.com/isra-st/london_bike_sharing/files/6278860/London_bike_sharing_presentation.pptx)
+[![Customer Segmentation_Github](https://user-images.githubusercontent.com/73388089/114079260-42f2c200-98aa-11eb-817a-bd4f6464a6eb.png)](https://github.com/isra-st/Customer_Segmentation/files/6280761/Customer_Segmentation_Presentation.pptx)
+
 
 

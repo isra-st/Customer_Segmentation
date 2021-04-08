@@ -1,5 +1,11 @@
 # Customer_Segmentation
 
+An automobile company has plans to enter new markets with their existing products.
+
+In their existing market, the sales team has classified all customers into 4 segments (A, B, C, D ). Then, they performed segmented outreach and communication for different segment of customers.
+
+I'm required to help the manager to predict the right group of the new customers.
+
 # Goals of the project
 
 1. Perform an Explorartory Data Analysis with visualization 

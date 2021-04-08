@@ -7,7 +7,7 @@
 3. Use unsupervised learning model K Nearest Neighbors to create new clusters.
 4. Create Personas of the new clusters. 
 
-# Tools Used
+# Tools used
 * Pandas
 * Numpy
 * Matplotlib
@@ -46,17 +46,20 @@ The best performers modesl are:
        <img src="https://user-images.githubusercontent.com/73388089/114066689-48e1a680-989c-11eb-87e5-171c06b9249e.png" alt="Gradient Boosting Classifier" width="300" height="250">
 
 
-# K-Means model performance
+# K-Means cluster Personas creation
+
+After clustering the datapoints in four clusters I came up with the below Personas:
+
+![Customer Segmentation Personas](https://user-images.githubusercontent.com/73388089/114074814-17b9a400-98a5-11eb-8f58-a0f01aceea94.jpg)
 
 
 # Process
-1. Design: 
-  * I have created a MIRO board with the story mapping. https://miro.com/app/board/o9J_lRe3F5E=/
-  * I have created a Trello board with the epics of requirements needed to deliver. https://trello.com/b/S7aR17IA 
+
 2. Clean, manipulate and create the visualizations. 
   * Exploratory Data Analysis
   * Create visualizations
   * Create Dummies
+3. Feature Engeniering 
   * Recursive Feature Selection (RFE)
 3. Create the linear regression model. 
   * Validate the assumptions (Linearity, Autocorrelation, Sub-Normality, Normality, Multicollinearity)

@@ -35,7 +35,7 @@ I'm required to help the manager to predict the right group of the new customers
     * K-Means    
 
 # Resources
-London bike sharing dataset
+Customer Segmentation
 https://www.kaggle.com/vetrirah/customer
 
 # Classification models performance
@@ -60,18 +60,19 @@ After clustering the datapoints in four clusters I came up with the below Person
 
 
 # Process
-
-2. Clean, manipulate and create the visualizations. 
-  * Exploratory Data Analysis
+1. Exploratory Data Analysis
+  * Clean the dataset
   * Create visualizations
-  * Create Dummies
-3. Feature Engeniering 
-  * Recursive Feature Selection (RFE)
-3. Create the linear regression model. 
-  * Validate the assumptions (Linearity, Autocorrelation, Sub-Normality, Normality, Multicollinearity)
-4. Analyze the model perforamnce
-5. Creating a Story Telling presentation 
-
+2. Feature Engineering
+ *  Create Dummies.
+ *  Scaling
+ *  Feature selection SFS and RFE
+ *  PCA
+3. Modeling for Classification. we select the model with better performance (Gradient Boosting Classifier - Light Gradient Boosting Classifier)
+4. Hyper Tunning of the (Gradient Boosting Classifier - Light Gradient Boosting Classifier
+5. Clustering with Kmeans
+6. Create Personas
+7. Create Story telling
 
 # Presentation
 To see the presentation, click in the below picture.

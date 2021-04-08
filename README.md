@@ -64,10 +64,10 @@ After clustering the datapoints in four clusters I came up with the below Person
    * Clean the dataset
    * Create visualizations
 2. Feature Engineering
-  *  Create Dummies.
-  *  Scaling
-  *  Feature selection SFS and RFE
-  *  PCA
+   * Create Dummies.
+   * Scaling
+   * Feature selection SFS and RFE
+   * PCA
 3. Modeling for Classification. we select the model with better performance (Gradient Boosting Classifier - Light Gradient Boosting Classifier)
 
 4. Hyper Tunning of the (Gradient Boosting Classifier - Light Gradient Boosting Classifier

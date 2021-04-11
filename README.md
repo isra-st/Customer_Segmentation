@@ -8,8 +8,8 @@ I'm required to help the manager to predict the right group of the new customers
 
 # Goals of the project
 
-1. Perform an Explorartory Data Analysis with visualization 
-2. Use the supervised machine learning models to predict the customer segmentation
+1. Perform an Exploratory Data Analysis with visualization 
+2. Use the supervised machine learning models to predict the customer segmentation.
 3. Use unsupervised learning model K Nearest Neighbors to create new clusters.
 4. Create Personas of the new clusters. 
 
